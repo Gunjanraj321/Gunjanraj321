@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gunjanraj321
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
+- 🌱 Also, working on Node.js with express.js framework
 - 📫 How to reach me on gunjanraj321@gmail.com
 
 <!---
